@@ -142,3 +142,11 @@ sup { font-size: 0.7em; }
 	width:550px;
 	left: 250px;
 }
+
+.data-ref {
+	opacity: .5;
+}
+
+.active {
+	opacity: 1;
+}
