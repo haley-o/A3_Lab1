@@ -3,31 +3,31 @@ var carData = {
 
   F55: {
 
-  			modelName : "Blue Car",
+			modelName : "Mini Cooper F55",
 
-  			priceInfo : "$$1000",
+			priceInfo : "27,790",
 
-			modelDetails : "Synergistically leverage other's extensible total linkage through wireless networks. Appropriately exploit resource maximizing scenarios before wireless outsourcing.",
+			modelDetails : "It’s the turbocharged motoring icon, with more handles to love. The MINI 5 door boasts the same iconic good looks as its 3 door brother, but features an extra pair of passenger doors for practical access to its spacious cabin. And despite its slightly longer frame, the MINI 5 door’s wide, athletic stance and wheels-pushed-out design deliver the corner-carving agility you’d expect from any MINI.",
 
 		},
 
   F56: {
 
-  			modelName : "Yellow Car",
+			modelName : "Mini Cooper F56",
 
-  			priceInfo : "$$8000",
+			priceInfo : "22,190",
 
-			modelDetails : "Second leverage other's extensible total linkage through wireless networks. Appropriately exploit resource maximizing scenarios before wireless outsourcing.",
+			modelDetails : "A true style icon – reimagined for contemporary living. Paying tribute to the original 1959 Austin Seven, the MINI Seven Edition brings together our most distinctive elements into one model. Striking Melting Silver details, a unique bonnet stripe design, and exclusive interior elements put this special edition MINI into a class of its own.",
 
 		},
 
   R58: {
 
-  			modelName : "Red Car",
+			modelName : "Mini Cooper R58",
 
-  			priceInfo : "$$10.00",
+			priceInfo : "40,590",
 
-			modelDetails : "Third leverage other's extensible total linkage through wireless networks. Appropriately exploit resource maximizing scenarios before wireless outsourcing.",
+			modelDetails : "It’s almost time to re-discover the redesigned, re-engineered, and completely revamped MINI Convertible. From feistier more fuel-efficient engines, to smarter innovations that let you stay open at every point along the way, this all-new MINI Convertible brings an array of enhancements to get excited about. And although the next iteration of this sun-seeking MINI will look and feel more refined than its predecessor, the open-air exhilaration that awaits you behind the wheel remains the same. We can’t wait for you to experience it in person. Until then... stay open.",
 
 		}
 
